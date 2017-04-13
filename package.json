@@ -23,7 +23,7 @@
   "author": "Tim Hwang <timhwang21@gmail.com>",
   "name": "timhwang21-react-popover",
   "homepage": "https://github.com/timhwang21/react-popover",
-  "version": "0.4.6",
+  "version": "0.5.0",
   "main": "build/index.js",
   "description": "Forked react-popover that incorporates latest bugfixes",
   "devDependencies": {
