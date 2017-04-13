@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/littlebits/react-popover.git"
+    "url": "https://github.com/timhwang21/react-popover.git"
   },
-  "author": "Jason Kuhrt <jasonkuhrt@me.com> (http://jasonkuhrt.com/)",
-  "name": "react-popover",
-  "homepage": "https://github.com/littlebits/react-popover",
-  "version": "0.4.4",
+  "author": "Tim Hwang <timhwang21@gmail.com>",
+  "name": "timhwang21-react-popover",
+  "homepage": "https://github.com/timhwang21/react-popover",
+  "version": "0.4.6",
   "main": "build/index.js",
-  "description": "A specification backed popover for react",
+  "description": "Forked react-popover that incorporates latest bugfixes",
   "devDependencies": {
     "babel-cli": "^6.3.15",
     "babel-core": "^6.3.15",
@@ -54,7 +54,7 @@
     "webpack-dev-server": "^1.10.1"
   },
   "bugs": {
-    "url": "https://github.com/littlebits/react-popover/issues"
+    "url": "https://github.com/timhwang21/react-popover/issues"
   },
   "eslintConfig": {
     "extends": [
